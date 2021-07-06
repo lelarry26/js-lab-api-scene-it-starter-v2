@@ -1,4 +1,4 @@
-# Scene It APP
+# Scene It App
 
 Guided tutorial to build an app that handles user search and displays all movies that contain the given sentence. 
 
